@@ -8,7 +8,7 @@ require ('dotenv/config');
 const app = express();
 
 //init server
-app.listen(3032);
+app.listen(3031);
 
 // middlewares
 app.use(express.json());
